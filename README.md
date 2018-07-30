@@ -19,5 +19,4 @@ Useful scripts for configuring the Federated Authentication Service in XenDeskto
   PowerShell script to facilitate the export of user accounts from a primary domain
 
 * **import_shadow_accts.ps1**
-  PowerShell script to facilitate the creation of shadow accounts in a secondary domain, to be used with the export_shadow_accts.ps1 script.
-  
+  PowerShell script to facilitate the creation of shadow accounts in a secondary domain
